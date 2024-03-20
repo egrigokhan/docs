@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "SDK Docs",
   "logo": {
     "dark": "https://usebrainbase.xyz/bb_logo_white.svg",
     "light": "https://usebrainbase.xyz/bb_logo_black.svg"
